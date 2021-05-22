@@ -51,7 +51,7 @@ public class ReverseAlphabeticalComparatorTest {
         String str = l1.getFirst().getName();
         LinkedList<ApfsElement> l2 = ((ApfsDirectory)fs.getRoot()).getChildren(new ReverseAlphabeticalComparator());
         String str1 = l2.getLast().getName();
-        assertNotEquals(str, str1);
+        assertEquals(str, str1);
     }
 
 }
