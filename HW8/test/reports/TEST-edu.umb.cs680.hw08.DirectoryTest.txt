@@ -1,0 +1,4 @@
+Testcase: edu.umb.cs680.hw08.DirectoryTest
+Test: verifynumberofChildren() took 4 milli sec(s)
+Test: verifySizeofFile() took 0 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 10 milli sec(s)

@@ -1,0 +1,7 @@
+Testcase: edu.umb.cs680.hw10.ApfsDirectoryTest
+Test: testsubdir() took 0 milli sec(s)
+Test: testdir() took 8 milli sec(s)
+Test: verifyFileName() took 0 milli sec(s)
+Test: verifyDirectoryEqualityCodefile() took 0 milli sec(s)
+Test: testForSizeFile() took 0 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 8 milli sec(s)
